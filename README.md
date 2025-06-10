@@ -1,2 +1,0 @@
-# A-Secure-and-Dynamic-Multi-Keyword-Ranked-Search-Scheme-Over-Encrypted-Cloud-Data
- Developed a privacy-preserving multi-keyword ranked search system enabling secure retrieval of encrypted cloud data ◦ Implemented secure indexing and keyword mapping using inverted index structures with Java and Apache Lucene   Created a dynamic update module supporting file addition, deletion, and modification without re-encrypting entire dataset
